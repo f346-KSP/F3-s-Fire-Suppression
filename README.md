@@ -20,4 +20,5 @@ F3's Fire Suppression aims to add water deluge effects to more pads in KSP.
 # Dependencies:
 
 -Module Manager
+
 -B9PartSwitch
